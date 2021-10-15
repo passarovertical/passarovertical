@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @passarovertical
 - 👀 Tenho interesse em tudo relacionado ao front-end e ao visual.
-- 🌱 Atualmente estou aprendendo JavaScript.
-- 💞️ Gostaria de colaborar em projetos relacionados a criação de interfaces e landing pages.
+- 🌱 Atualmente estou aprendendo JavaScript e React.
+- 💞️ Gostaria de colaborar em projetos relacionados a criação de interfaces e páginas web.
 - 📫 Você pode me contactar através do meu twitter: @passarovertical
 
 <!---
